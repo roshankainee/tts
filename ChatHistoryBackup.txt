@@ -1,0 +1,6 @@
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=glm.GenerateContentResponse({'candidates': [{'content': {'parts': [{'text': "**Tips for Maintaining Friendships:**\n\n* **Make time for your friends.** Even if you're busy, make an effort to schedule regular catch-ups.\n* **Be supportive and understanding.** Be there for your friends through thick and thin.\n* **Communicate openly and honestly.** Talk to your friends about your feelings and be willing to listen to theirs.\n* **Be forgiving.** Everyone makes mistakes. If a friend hurts you, try to forgive them and move on.\n* **Show appreciation.** Let your friends know how much you value them."}], 'role': 'model'}, 'finish_reason': 1, 'index': 0, 'safety_ratings': [{'category': 9, 'probability': 1, 'blocked': False}, {'category': 8, 'probability': 1, 'blocked': False}, {'category': 7, 'probability': 1, 'blocked': False}, {'category': 10, 'probability': 1, 'blocked': False}], 'citation_metadata': {'citation_sources': []}, 'token_count': 0, 'grounding_attributions': []}], 'prompt_feedback': {'block_reason': 0, 'safety_ratings': []}}),
+)

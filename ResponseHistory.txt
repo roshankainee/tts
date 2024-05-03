@@ -1,0 +1,10 @@
+```python
+print("Hello, world!")
+```
+**Tips for Maintaining Friendships:**
+
+* **Make time for your friends.** Even if you're busy, make an effort to schedule regular catch-ups.
+* **Be supportive and understanding.** Be there for your friends through thick and thin.
+* **Communicate openly and honestly.** Talk to your friends about your feelings and be willing to listen to theirs.
+* **Be forgiving.** Everyone makes mistakes. If a friend hurts you, try to forgive them and move on.
+* **Show appreciation.** Let your friends know how much you value them.

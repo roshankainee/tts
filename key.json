@@ -1,0 +1,16 @@
+{
+    "key1": "bfe9bcebd8ce47908b51a4e3536b1eda",
+    "gemini": "AIzaSyDRsW5D3P44GmtSyaoZCJf4cKyWlwAKNy4",
+    "region": "centralindia",
+    "user" : "Gaurav",
+    "bot" : "Friday",
+    "notepad": "C:\\Windows\\notepad.exe",
+    "discord": "C:\\Users\\gaura\\AppData\\Local\\Discord\\app-1.0.9037\\Discord.exe",
+    "calculator": "C:\\Windows\\System32\\calc.exe",
+    "email": "",
+    "password":"" ,
+    "news_api_key": "NEWS_API_KEY",
+    "openweather_app_id": "OPENWEATHER_APP_ID",
+    "tmdb_api_key": "TMDB_API_KEY"
+  }
+  
